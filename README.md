@@ -29,8 +29,5 @@
   <img width='12'/>
   <img src="https://github.com/cauatardetti/cauatardetti/blob/main/n8n-color.svg?raw=true" height='40'/>
   <img width='12'/>
-  <img src="https://github.com/user-attachments/assets/fddfae45-de20-4e4e-a800-c4eb460c2b5f
-" height='40' background='white'/>
-  <img width='12'/>
-
+  <a href="https://logowik.com/flask-logo-vector-svg-pdf-ai-eps-cdr-free-download-10539.html"><img src="https://logowik.com/content/uploads/images/flask3998.jpg" height='40'></a>
 </div>
