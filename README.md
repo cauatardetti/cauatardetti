@@ -25,7 +25,7 @@
   <img width='12'/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"/>
   <img width='12'/>
-  <img src='http://www.w3.org/2000/svg](https://n8n.io/n8n-logo.svg'/>
+  <img src="https://github.com/cauatardetti/cauatardetti/blob/main/n8n?raw=true"/>
   <img width='12'/>
 
 </div>
