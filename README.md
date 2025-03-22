@@ -20,11 +20,12 @@ Meu nome é **Cauã Tardetti**, sou analista de dados e desenvolvedor na empresa
   <img width='12'/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
   <img width='12'/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="sql logo" />
+  <img width='12'/>
+  <img width='12'/>
   <img src="https://github.com/cauatardetti/cauatardetti/blob/main/n8n-color.svg?raw=true" height='40'/>
   <img width='12'/>
   <img src="https://github.com/cauatardetti/cauatardetti/blob/main/icons8-flask.svg?raw=true" height='58'/>
-  <img width='12'/>
-  <img src="https://github.com/cauatardetti/cauatardetti/blob/main/mysql.svg?raw=true" height='80'/>
   <img width='12'/>
 </div>
 
