@@ -1,3 +1,5 @@
+          
+
 <h1 align='left'>Olá!</h1>
 
 ###
@@ -25,7 +27,10 @@
   <img width='12'/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"/>
   <img width='12'/>
-  <img src="https://github.com/cauatardetti/cauatardetti/blob/main/n8n?raw=true"/>
+  <img src="https://github.com/cauatardetti/cauatardetti/blob/main/n8n-color.svg?raw=true" height='40'/>
+  <img width='12'/>
+  <img src="https://github.com/user-attachments/assets/fddfae45-de20-4e4e-a800-c4eb460c2b5f
+" height='40' background='white'/>
   <img width='12'/>
 
 </div>
