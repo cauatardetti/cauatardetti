@@ -31,6 +31,10 @@ Meu nome é **Cauã Tardetti**, sou analista de dados e desenvolvedor na empresa
 
 ---
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cauatardetti&layout=compact&theme=tokyonight)
+
+---
+
 ## Entre em Contato
 
 <p>Email: cauabtvendrame@gmail.com<br>Linkedin: https://www.linkedin.com/in/cauã-tardetti-b031b9212/</p>
