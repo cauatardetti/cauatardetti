@@ -1,4 +1,4 @@
-# Olá, eu sou Cauã 👋
+# Olá, eu sou Cauã 
 
 Sou engenheiro de software com foco em **automações**, **integrações**, **IA aplicada a negócios** e **soluções que realmente resolvem problemas do dia a dia**.
 
