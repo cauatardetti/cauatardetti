@@ -56,7 +56,7 @@ Eu gosto de entender a lógica, estruturar bem a solução e construir algo que 
 
 ---
 
-## 🧠 No que eu gosto de trabalhar
+## No que eu gosto de trabalhar
 
 - automações inteligentes
 - integrações entre sistemas
@@ -67,7 +67,7 @@ Eu gosto de entender a lógica, estruturar bem a solução e construir algo que 
 
 ---
 
-## 📌 Alguns temas que você vai encontrar por aqui
+## Alguns temas que você vai encontrar por aqui
 
 - projetos de integração com APIs
 - automações com n8n
@@ -78,22 +78,21 @@ Eu gosto de entender a lógica, estruturar bem a solução e construir algo que 
 
 ---
 
-## 📫 Como falar comigo
+## Como falar comigo
 
-- **LinkedIn:** [seu-linkedin](https://linkedin.com/in/seu-linkedin)
-- **E-mail:** seuemail@exemplo.com
-- **Site/Portfólio:** [seusite.com](https://seusite.com)
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=github_dark&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=github_dark&hide_border=true)
+- **LinkedIn:** https://www.linkedin.com/in/cau%C3%A3-tardetti-b031b9212/
+- **E-mail:** cauabtvendrame@gmail.com
 
 ---
 
-## ⚡ Frase que resume meu jeito de construir
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cauatardetti&show_icons=true&theme=github_dark&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cauatardetti&layout=compact&theme=github_dark&hide_border=true)
+
+---
+
+## Frase que resume meu jeito de construir
 
 **Tecnologia boa é a que resolve, simplifica e escala.**
