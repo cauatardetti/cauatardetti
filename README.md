@@ -87,9 +87,10 @@ Eu gosto de entender a lógica, estruturar bem a solução e construir algo que 
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cauatardetti&show_icons=true&theme=github_dark&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cauatardetti&layout=compact&theme=github_dark&hide_border=true)
+<p align="center">
+  <img src="./profile/stats.svg" alt="GitHub Stats" height="170" />
+  <img src="./profile/top-langs.svg" alt="Top Languages" height="170" />
+</p>
 
 ---
 
