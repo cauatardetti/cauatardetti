@@ -1,6 +1,6 @@
 # Olá, eu sou Cauã 👋
 
-Sou desenvolvedor de software com foco em **automações**, **integrações**, **IA aplicada a negócios** e **soluções que realmente resolvem problemas do dia a dia**.
+Sou engenheiro de software com foco em **automações**, **integrações**, **IA aplicada a negócios** e **soluções que realmente resolvem problemas do dia a dia**.
 
 Hoje, trabalho principalmente com projetos que envolvem:
 - **HubSpot**
