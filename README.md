@@ -15,7 +15,7 @@ Gosto de transformar processos manuais em fluxos inteligentes, criar sistemas ma
 
 ---
 
-## 🚀 Sobre mim
+## Sobre mim
 
 Tenho experiência construindo projetos como:
 
@@ -30,7 +30,7 @@ Eu gosto de entender a lógica, estruturar bem a solução e construir algo que 
 
 ---
 
-## 🛠️ Tecnologias e ferramentas
+## Tecnologias e ferramentas
 
 ### Backend / Automação
 ![Python](https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python)
@@ -42,8 +42,6 @@ Eu gosto de entender a lógica, estruturar bem a solução e construir algo que 
 
 ### CRM / CMS / Plataformas
 ![HubSpot](https://img.shields.io/badge/HubSpot-111?style=for-the-badge&logo=hubspot)
-![WordPress](https://img.shields.io/badge/WordPress-111?style=for-the-badge&logo=wordpress)
-![Elementor](https://img.shields.io/badge/Elementor-111?style=for-the-badge&logo=elementor)
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-111?style=for-the-badge&logo=react)
@@ -52,6 +50,7 @@ Eu gosto de entender a lógica, estruturar bem a solução e construir algo que 
 
 ### Banco de dados e outros
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-111?style=for-the-badge&logo=mysql)
 ![Git](https://img.shields.io/badge/Git-111?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github)
 
